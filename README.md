@@ -1,6 +1,6 @@
 # App
 
-GymPass style app.
+GymPass style app. (Curso Node Ignite)
 
 ## RFs (Requisitos funcionais)
 
